@@ -4,8 +4,16 @@
  * By Hakim El Hattab, http://hakim.se
  */
 @import url(./fonts/source-sans-pro/source-sans-pro.css);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
 section.has-light-background, section.has-light-background h1, section.has-light-background h2, section.has-light-background h3, section.has-light-background h4, section.has-light-background h5, section.has-light-background h6 {
   color: #222;
+}
+
+.reveal.reveal img {
+  border: none;
+  box-shadow: none;
+  max-height: calc(55vh);
+  max-width: calc(66vw);
 }
 
 /*********************************************
@@ -14,11 +22,11 @@ section.has-light-background, section.has-light-background h1, section.has-light
 :root {
   --background-color: #191919;
   --main-font: Source Sans Pro, Helvetica, sans-serif;
-  --main-font-size: 42px;
+  --main-font-size: 32px;
   --main-color: #fff;
   --block-margin: 20px;
   --heading-margin: 0 0 20px 0;
-  --heading-font: Source Sans Pro, Helvetica, sans-serif;
+  --heading-font: Montserrat, Helvetica, sans-serif;
   --heading-color: #fff;
   --heading-line-height: 1.2;
   --heading-letter-spacing: normal;
@@ -26,7 +34,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
   --heading-text-shadow: none;
   --heading-font-weight: 600;
   --heading1-text-shadow: none;
-  --heading1-size: 2.5em;
+  --heading1-size: 2em;
   --heading2-size: 1.6em;
   --heading3-size: 1.3em;
   --heading4-size: 1em;

@@ -2,9 +2,9 @@
 
 # AMPA
 
-![](./img/uoc.png)
+![](./img/uoc-logo-blanc.svg)
 
-----------
+<hr />
 
 **Alumne**: _Josep Vicent Monjo i Agut_
 
