@@ -13,6 +13,12 @@ Note: This will only appear in the speaker notes window.
 
 Content 1.2
 
+```js
+function () {
+    return true;
+}
+```
+
 
 
 ## External 2
