@@ -7,4 +7,8 @@
  <figcaption>Treball des de casa. Unsplash.com</figcaption>
 </figure>
 
-note: La pandèmia i el teletreball
+notes:
+
+- La pandèmia
+- L'auge del teletreball
+- El distanciament i la necessitat d'eliminar burocràcia (paperassa)
