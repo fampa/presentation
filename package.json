@@ -13,9 +13,9 @@
     "build": "gulp build"
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "https://hakim.se"
+    "name": "Josep Vicent Monjo Agut",
+    "email": "jvmonjo@gmail.com",
+    "web": "https://monjo.dev"
   },
   "repository": {
     "type": "git",
