@@ -8,7 +8,7 @@ notes:
 
 - Material Design: és un sistema de disseny creat per Google, que ajuda a crear una experiència de usuari diguem-ne més estàndard i reconeixible.
 
-- En l'elaboració del disseny era important incidir en que fos adaptatiu però sobre tot que funcionés bé en mòbils. És el que coneixem com a _Mobile First Design_.
+- En l'elaboració del disseny era important incidir en que fos adaptatiu però sobre tot que funcionés bé en mòbils. És el que coneixem com a _Mobile First_.
 
 --
 
@@ -43,3 +43,11 @@ notes:
 - Quasar per l'extensa llibreria de components adaptats sobretot a Material Design i per la facilitat d'exportar el nostre projecte no només a web i pwa, sino també a aplicacions Android, iOS i escriptori si fos necessari.
 - Firebase Auth perquè fer un sistema d'autenticació ben fet és més complicat del que pot semblar, aleshores sempre és preferible usar un sistema madur com pot ser el de Firebase, amb una fàcil integració amb login social.
 - Firebase Functions per la integració que té amb Firebase Auth i Firebase Storage.
+
+---
+
+# Desenvolupament
+
+## Codebase
+
+![](./img/vscode.png)

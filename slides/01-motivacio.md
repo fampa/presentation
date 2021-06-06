@@ -12,3 +12,4 @@ notes:
 - La pandèmia
 - L'auge del teletreball
 - El distanciament i la necessitat d'eliminar burocràcia (paperassa)
+- Com a membre de la Junta de l'AMPA, automatizar el màxim possible.
