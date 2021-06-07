@@ -1,15 +1,7 @@
-![](./img/uoc-logo-blanc.svg)
+# Landing page
 
-# Motivació
-
-<figure>
-<img src="./img/work-from-home.jpg" alt="Treball des de casa. Unsplash.com" style="width: 60%"/>
- <figcaption>Treball des de casa. Unsplash.com</figcaption>
-</figure>
+<https://ampa.netlify.app/>
 
 notes:
 
-- La pandèmia
-- L'auge del teletreball
-- El distanciament i la necessitat d'eliminar burocràcia (paperassa)
-- Com a membre de la Junta de l'AMPA, automatizar el màxim possible.
+Per a la presentació no tècnica i de format lliure, he decidit fer una landing page informativa, on a més a més incloc 2 vídeos explicatius, un per a usuaris i altre per a administradors.
